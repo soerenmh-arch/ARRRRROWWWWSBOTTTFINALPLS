@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Arrows Bot</string>
+    <string name="accessibility_service_label">Arrows Bot Steuerung</string>
+    <string name="accessibility_service_description">Erlaubt sichere Gesten zur Bedienung des Spielfelds.</string>
+</resources>
